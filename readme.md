@@ -24,4 +24,4 @@ Users must first create an account to perform any of the CRUD actions, but anyon
 
 So far, the app allows logged in users to create unlimited number of object (or tables) designs.
 
-The user can then add, edit, and delete contents (or rows) under each of his objects (or tables) and unlimited number of contents under each object.
+The user can then edit, delete, and add unlimited number of contents (or rows) under each of his objects (or tables).
